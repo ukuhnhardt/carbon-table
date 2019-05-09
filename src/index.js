@@ -142,7 +142,7 @@ class App extends React.Component {
                           <span>&nbsp;</span>
                           <Icon
                             icon={iconArrowUp}
-                            description="up"
+                            description="up it goes"
                             onClick={() => console.log("up", row.id)}
                           />
                         </TableCell>
